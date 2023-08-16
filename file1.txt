@@ -1,4 +1,5 @@
 Today is Wednesday
 We are learning Git & Unix
 New
-branching 
+branching
+Hey how are you doing
