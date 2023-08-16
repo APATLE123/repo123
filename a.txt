@@ -2,3 +2,4 @@ Today is Wednesday
 We are learning Git & Unix
 New 
 How are you ??
+Git fetch+merge
